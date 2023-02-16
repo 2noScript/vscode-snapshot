@@ -2,12 +2,17 @@
 
 📸 Take beautiful screenshots of your code in VS Code!
 
+## Exam
+
+![](https://raw.githubusercontent.com/2noScript/vscode-snapshot/main/examples/exam.png)
+
 ## Features
 
 -  Quickly save screenshots of your code
 -  Copy screenshots to your clipboard
 -  Show line numbers
 -  Many other configuration options
+-  Background transparent
 
 ## Usage Instructions
 
